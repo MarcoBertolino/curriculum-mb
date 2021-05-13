@@ -1,0 +1,39 @@
+body {
+    background: url(carbonfiber.jpg);
+    font-family:'Montserrat', sans-serif;
+}
+
+.header1__h1 {
+    background-color: #2a2727;
+    text-align: center;
+    padding: 15px 5px 15px 5px;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    margin-top: 0px;
+}
+.article1__h2 {
+    text-align: center;
+    color: white;
+}
+.article1___p1 {
+    color: white;
+    display: inline-block;
+}
+
+.article1__img {
+    width: 300px;
+    display: block;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.article1__h21{
+    color: white;
+    text-align: center;
+}
+
+.article1__ul {
+    color: white;
+    text-align: center;
+}
